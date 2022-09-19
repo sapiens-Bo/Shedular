@@ -1,0 +1,4 @@
+﻿  Calendar.cpp
+E:\Study\CPP\Shedular\Shedular\Calendar.cpp(17,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\Study\CPP\Shedular\Shedular\Calendar.cpp(17,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Shedular.vcxproj -> E:\Study\CPP\Shedular\x64\Debug\Shedular.exe
