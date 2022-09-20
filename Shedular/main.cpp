@@ -25,6 +25,8 @@ int main()
 			{
 				window.close();
 			}
+
+			cal.pressButton(ev);
 		}
 		window.clear(sf::Color::Green);
 
